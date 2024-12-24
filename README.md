@@ -1,2 +1,3 @@
 # Tarea-2-Modelos-No-Supervisados
 Introducir a los estudiantes a técnicas de agrupamiento y reducción de dimensionalidad.
+Este conjunto de datos busca predecir la edad de los abalones utilizando mediciones físicas más simples en lugar del método tradicional, que implica cortar la concha, teñirla y contar anillos bajo un microscopio. Los datos originales han sido limpiados eliminando ejemplos con valores faltantes, y las variables continuas han sido escaladas (divididas entre 200) para su uso en redes neuronales artificiales. También se sugiere que factores adicionales, como clima y ubicación, podrían ser relevantes para mejorar las predicciones.
